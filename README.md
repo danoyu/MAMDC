@@ -1,2 +1,2 @@
 # MAMDC
-projet dominance
+Projet sur la dominance de Pareto
